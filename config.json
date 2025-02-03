@@ -1,0 +1,17 @@
+{
+    "usuario": "user",
+    "password": "pass",
+    "ip": "localhost",
+    "puerto": 27017,
+    "database": "casino",
+    "colecciones": {
+        "cartas_es": "cards_es",
+        "cartas_fr": "cards_fr",
+        "usuarios": "users",
+        "puntuaciones": "scores"
+    },
+    "primer_usuario": {
+        "user": "admin",
+        "pass": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918"
+    }
+}
